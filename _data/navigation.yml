@@ -15,7 +15,7 @@ en: &DEFAULT_EN
       section: services
     - title: "고양이 사진"
       section: portfolio
-    - title: "About"
+    - title: "고양이에 대해"
       section: about
     - title: "Contact"
       section: contact

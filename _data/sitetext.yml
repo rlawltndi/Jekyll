@@ -40,10 +40,9 @@ en: &DEFAULT_EN
 
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
+    title: "고양이에 대해"
+    text: "고양이 알아?"
+    body: "아, 근데 너는 알레르기 있어서 못키우지?"
 
  
     section: clients
@@ -64,10 +63,10 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
  
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
+    title: "고양이에 대해"
+    text: "고양이 알아?"
+    subtext: "아, 근데 너는 알레르기 있어서 못키우지?"
+    section: about
     people:
       - name: "Kay Garland"
         role: "Lead Designer"
